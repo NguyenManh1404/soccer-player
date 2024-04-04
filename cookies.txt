@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.i.nvxcdn.com	TRUE	/	FALSE	1999999999	__cf_bm	TH3lktYfPMoWSnreBE7zg1TAxCU4V4oKpParHwhRais-1712233144-1.0.1.1-gf0QAcMdmT501YssHobgRwC_1DJtqyEZj1Vdwg0jbXxze.oNYim7kHGLBIqWUSzQq7OEexgmeEvnugn183VONg
+i.nvxcdn.com	TRUE	/	FALSE	1999999999	SameSite	None
+.www.pking88.com	TRUE	/	FALSE	1999999999	__cf_bm	a3sVrMxDaKE3Nezjng9QvE1046EfYTAPodo_6Eo4fJs-1712233144-1.0.1.1-op2HYpYIZW4qzJwbVvqxkxjOAMZtlVhJoUTxVio_HgTKVkBi9XXfW3XO_GBNiTjjyT6kFuD4t1CCsC0jnQzh3w
+www.pking88.com	TRUE	/	FALSE	1999999999	SameSite	None
+

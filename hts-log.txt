@@ -1,0 +1,23 @@
+HTTrack3.49-2 launched on Thu, 04 Apr 2024 19:18:18 at http://https://www.pking88.com/b/vn +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w http://https://www.pking88.com/b/vn -O "/Users/manh.nguyen/websites/soccer-play" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:18:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.pking88.com/b/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js
+19:18:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.pking88.com/b/_next/static/chunks/webpack-d1910b1a8de6a091.js
+19:18:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.pking88.com/b/_next/static/chunks/framework-2c79e2a64abdb08b.js
+19:18:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.pking88.com/b/_next/static/chunks/main-c0360f540137fe89.js
+19:18:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.pking88.com/b/_next/static/chunks/pages/_app-057ea8749037b88c.js
+19:18:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.pking88.com/b/_next/static/chunks/198-e39f0e2c195187c5.js
+19:18:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.pking88.com/b/_next/static/chunks/862-527c3bafda3abc82.js
+19:18:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.pking88.com/b/_next/static/chunks/555-4a87faf2e5080018.js
+19:19:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.pking88.com/b/_next/static/D-HXof0-e1C0ysdiTznI1/_buildManifest.js
+19:19:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.pking88.com/b/_next/static/chunks/pages/index-2c7214b56f76f756.js
+19:19:04	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.pking88.com/b/vn)
+19:19:04	Warning: 	HTML file (38824 bytes) retransferred due to lack of cache: https://www.pking88.com/b/ch
+
+HTTrack Website Copier/3.49-2 mirror complete in 47 seconds : 32 links scanned, 51 files written (2487998 bytes overall) [815484 bytes received at 17350 bytes/sec], 2027196 bytes transferred using HTTP compression in 32 files, ratio 28%, 2.2 requests per connection
+(1 errors, 11 warnings, 0 messages)
